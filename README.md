@@ -215,3 +215,7 @@ All the heavy lifting is done by [yt-dlp](https://github.com/yt-dlp/yt-dlp), [ga
 ## Contributors to this fork
 
 - **OpenAI Codex** helped implement and test the Rust Windows companion and TikTok export extension.
+
+## Windows desktop preview
+
+[Download the Windows x64 installer](https://github.com/proczdev/fuckingdownloader/releases/download/windows-v0.1.0/FuckinDownloader-Setup-x64.exe) · [Release notes](https://github.com/proczdev/fuckingdownloader/releases/tag/windows-v0.1.0) · [Windows setup guide](https://github.com/proczdev/fuckingdownloader/blob/windows-v0.1.0/windows/README.md)
