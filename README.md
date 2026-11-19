@@ -211,3 +211,7 @@ All the heavy lifting is done by [yt-dlp](https://github.com/yt-dlp/yt-dlp), [ga
 ## License
 
 [MIT](LICENSE)
+
+## Contributors to this fork
+
+- **OpenAI Codex** helped implement and test the Rust Windows companion and TikTok export extension.
